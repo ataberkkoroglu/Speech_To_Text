@@ -1,7 +1,8 @@
-#speech_to_text
+###speech_to_text
+
 Convert your voice to text file with this program.
 
-##Libraries
+###Libraries
 *SpeechRecognition==3.10.0
 
 * PyAudio==0.2.13
